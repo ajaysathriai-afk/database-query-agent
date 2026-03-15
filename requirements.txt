@@ -1,8 +1,8 @@
 gradio==4.16.0
 langchain==0.1.20
-langchain-openai==0.1.0
+langchain-openai==0.1.1
 langchain-community==0.0.38
-openai==1.14.3
+openai==1.16.2
 python-dotenv==1.0.0
 sqlalchemy==2.0.27
 pandas==2.2.0
