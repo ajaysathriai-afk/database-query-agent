@@ -13,6 +13,11 @@ pinned: false
 # AI Database Query Agent
 
 An AI-powered data analytics assistant that converts natural language questions into SQL queries and visualizes the results.
+🚀 **Live Demo:**  
+👉 https://ajaysathri-database-query-agent.hf.space
+
+📂 **GitHub Repository:**  
+https://github.com/ajaysathriai-afk/database-query-agent
 
 ## Features
 
