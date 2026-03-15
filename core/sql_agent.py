@@ -20,8 +20,7 @@ class SQLQueryAgent:
 
         self.llm = ChatOpenAI(
             model="gpt-4o-mini",
-            temperature=0,
-            openai_api_key=os.getenv("OPENAI_API_KEY")
+            temperature=0
         )
 
         print("⚙️ Creating LangChain SQL Agent...")
