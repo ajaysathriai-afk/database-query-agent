@@ -1,3 +1,53 @@
+---
+
+title: AI Database Query Agent
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: "4.16.0"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+-------------
+
+# AI Database Query Agent
+
+An AI-powered data analytics assistant that converts natural language questions into SQL queries and visualizes the results.
+
+## Features
+
+* Natural language → SQL conversion using LangChain agents
+* Automated data visualization with Plotly
+* Interactive UI built with Gradio
+* SQLite sample database
+* Real-time AI reasoning logs
+
+## Tech Stack
+
+* Python
+* LangChain
+* OpenAI
+* Gradio
+* SQLite
+* Plotly
+* Pandas
+
+## Example Queries
+
+* "Show top 5 products by revenue"
+* "List all customers from USA"
+* "Which products generated the most sales?"
+
+## Architecture
+
+User Question → AI SQL Agent → SQL Query → Database → DataFrame → Visualization → UI
+
+
+
+
+
+
 # AI Database Query Agent
 
 An AI-powered data assistant that converts natural language questions into SQL queries, executes them on a database, and returns both visualizations and results.
