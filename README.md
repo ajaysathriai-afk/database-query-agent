@@ -1,5 +1,4 @@
 ---
-
 title: AI Database Query Agent
 emoji: 🤖
 colorFrom: blue
@@ -9,7 +8,7 @@ sdk_version: "4.16.0"
 python_version: "3.11"
 app_file: app.py
 pinned: false
--------------
+---
 
 # AI Database Query Agent
 
