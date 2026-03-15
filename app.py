@@ -153,4 +153,4 @@ with gr.Blocks() as app:
     schema_btn.click(show_schema, None, answer_box)
 
 
-app.launch(css=css)
+app.launch()
