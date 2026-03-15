@@ -1,6 +1,6 @@
 ---
 title: AI Database Query Agent
-emoji: 🤖
+emoji: 🗄️
 colorFrom: blue
 colorTo: purple
 sdk: gradio
